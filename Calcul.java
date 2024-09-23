@@ -9,7 +9,7 @@
 		 m=++n;
 		 System.out.println(m);
 		 System.out.println(n);
-		  System.out.println(m+n);
+		  //System.out.println(m+n);
 	 }
  }
  
